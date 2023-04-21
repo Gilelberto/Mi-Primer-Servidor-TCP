@@ -38,7 +38,7 @@ v1.0.0
 
 ## Authors
 
-* **Gilberto Contreras Conn** - [GitHub](https://github.com/Gilelberto)
+* **Gilberto Contreras Conn 348503** - [GitHub](https://github.com/Gilelberto)
 
 
 ## License
